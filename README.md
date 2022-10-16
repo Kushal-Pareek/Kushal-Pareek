@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kushal Pareek</h1>
 <h3 align="center">A passionate Android developer from India</h3>
-<h4 align="center">Participating in Hacktoberfest 2022</h3>
+<h4 align="center">Participated in Hacktoberfest 2022</h3>
 
 - 🌱 I’m currently learning **Cloud Computing**
 
