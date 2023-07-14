@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 👨‍💻 My portfolio [https://kushal-pareek.github.io/Portfolio/](https://kushal-pareek.github.io/Portfolio/)
-
 - 📫 How to reach me **pareekkushal91@gmail.com**
 
 - ⚡ Fun fact **I think I am funny XD**
