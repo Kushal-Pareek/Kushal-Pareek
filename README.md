@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushal Pareek</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<h4 align="center">Participated in Hacktoberfest 2022</h3>
-
+<h4 align="center">Contributor in Hacktoberfest 2022</h4>
+<h4 align="center">Winner of Hacksquad 2022(Team=Jecrc_Hacker)</h4>
 - 🌱 I’m currently learning **Cloud Computing**
 
 - 📫 How to reach me **pareekkushal91@gmail.com**
