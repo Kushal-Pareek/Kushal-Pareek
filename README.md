@@ -5,7 +5,7 @@
 
 ![image title](https://rushter.com/counter.svg)
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Backend**
 
 - 📫 How to reach me **pareekkushal91@gmail.com**
 
